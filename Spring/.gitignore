@@ -1,0 +1,15 @@
+# Eclipse / Spring Tool Suite
+.metadata/
+.classpath
+.project
+.settings/
+
+# Build files
+target/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
